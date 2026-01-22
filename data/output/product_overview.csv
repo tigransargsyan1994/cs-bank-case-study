@@ -1,0 +1,4 @@
+AccountType,Currency,accounts_count,total_balance,avg_balance,min_balance,max_balance,share_of_accounts_%,share_of_balance_%
+Saving,CZK,55,11254850.25,204633.64,1.19,957809.0,55.0,82.67
+Current,CZK,45,2359397.7,52431.06,782.31,94606.2,45.0,17.33
+Loan,EUR,50,19528838.08,390576.76,1.02,973025.0,100.0,100.0

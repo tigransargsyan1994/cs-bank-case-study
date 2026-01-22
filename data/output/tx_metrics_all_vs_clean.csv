@@ -1,0 +1,5 @@
+AccountType,AccountCurrency,transactions_count,gross_volume,net_volume,avg_abs_amount,total_fee,dataset
+Saving,CZK,1716,7605370.68,7605370.68,4432.03,83250,all_transactions
+Current,CZK,1360,2004242.41,2004242.41,1473.71,46515,all_transactions
+Saving,CZK,1695,7604609.53,7604609.53,4486.5,82200,clean_transactions
+Current,CZK,1347,2003473.43,2003473.43,1487.36,45215,clean_transactions

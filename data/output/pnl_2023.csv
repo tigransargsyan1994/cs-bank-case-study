@@ -1,0 +1,4 @@
+AccountType,Currency,accounts_count,total_balance,interest_revenue,interest_cost,fee_revenue,transactions_count,fee_revenue_clean,transactions_count_clean,flagged_fee_gt_amount,total_revenue_clean,total_cost,profit_clean,profit_margin_%,profit_on_balance_%,profit_per_account
+Current,CZK,45,2359397.7,0.0,0.0,2185.0,56,2185.0,56,0,2185.0,0.0,2185.0,100.0,0.0926,48.56
+Saving,CZK,55,11254850.25,0.0,318885.59,3900.0,129,3850.0,128,1,3850.0,318885.59,-315035.59,-8182.74,-2.7991,-5727.92
+Loan,EUR,50,19528838.08,1705093.82,0.0,0.0,0,0.0,0,0,1705093.82,0.0,1705093.82,100.0,8.7312,34101.88

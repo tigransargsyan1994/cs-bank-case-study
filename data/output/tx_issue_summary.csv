@@ -1,0 +1,10 @@
+issue,rows_flagged
+flag_fee_gt_amount,34
+flag_missing_transaction_id,0
+flag_missing_account_id,0
+flag_account_not_found,0
+flag_duplicate_transaction_id,0
+flag_amount_missing,0
+flag_amount_zero,0
+flag_fee_negative,0
+flag_date_missing,0

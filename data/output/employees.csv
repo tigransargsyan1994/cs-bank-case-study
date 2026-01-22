@@ -1,0 +1,65 @@
+EmployeeID,BranchID,Position,DateHired,EmployeeName,EmployeePhone,EmployeeEmail
+1.0,8.0,Loan Officer,2023-10-24,Jodi Young,3464692548,phillipsapril@example.org
+10.0,5.0,Teller,2010-10-21,Kenneth Collins,,waynecohen@example.com
+11.0,2.0,Security,2015-02-18,Charles Brown,,pjacobs@example.net
+12.0,3.0,Teller,2019-07-09,Sherry Stevens,0014018475469,haydenwilliamson@example.com
+13.0,5.0,Loan Officer,2016-06-27,Matthew Hale,5609324841,jriddle@example.org
+14.0,2.0,Security,2008-08-02,Brian Miranda,8675243807,qjohnson@example.org
+15.0,2.0,Security,2017-03-29,Paul Washington,4182372742,thompsondavid@example.net
+16.0,8.0,Loan Officer,2005-02-11,Michael Smith,,eric52@example.org
+17.0,8.0,Teller,2010-09-30,Kim Ramos,2818647090,sarahbrooks@example.org
+18.0,6.0,Loan Officer,2009-08-27,Javier Hays,,lori13@example.org
+19.0,1.0,Customer Service,2022-05-17,Amanda Hunt,,marcus39@example.org
+2.0,5.0,Manager,2021-05-22,Jose Rogers,5766657546,howardchristopher@example.net
+20.0,5.0,Manager,2016-06-30,Jeffrey Hall,5559206506,cameronbriggs@example.net
+21.0,7.0,Security,2023-11-06,Stephen Jenkins,0014977189241,bjones@example.net
+22.0,8.0,Loan Officer,2010-11-24,Jorge Harmon,4907309143,jphillips@example.com
+23.0,2.0,Manager,2013-05-28,Cynthia Swanson,,vstevenson@example.org
+24.0,6.0,Teller,2011-09-26,Richard Williams,,swong@example.org
+25.0,8.0,Customer Service,2005-09-18,Erin Allen,0019032396852,kanechad@example.org
+26.0,2.0,Loan Officer,2011-12-25,Brenda Harris,,thompsonana@example.org
+27.0,5.0,Loan Officer,2017-06-29,Jessica Mcdonald,9335629344,michelle71@example.com
+28.0,6.0,Customer Service,2016-09-15,John Henderson,0014626706614,dford@example.com
+29.0,5.0,Loan Officer,2006-05-14,Karen Cook,0018737230085,pburns@example.net
+3.0,5.0,Teller,2022-07-09,Angela Hill,,coreyjones@example.org
+30.0,2.0,Customer Service,2004-11-26,Andrew Dorsey,5925364587,xjohnson@example.net
+31.0,8.0,Teller,2014-03-23,Maria Green,3245399201,bmartin@example.com
+32.0,5.0,Manager,2023-06-05,Kim Tanner,,jessica11@example.net
+33.0,8.0,Security,2010-09-05,Haley Thomas,0016368402701,gregorylopez@example.org
+34.0,7.0,Security,2006-02-16,Mr. Brian Bradley,3234023467,carternicholas@example.com
+35.0,7.0,Manager,2015-05-24,Kevin Woods,0016109040901,msherman@example.com
+36.0,2.0,Security,2008-02-15,Steve Key,2569690551,ihardy@example.org
+37.0,4.0,Loan Officer,2020-06-05,Diana Lyons,7572978630,morgan57@example.org
+38.0,7.0,Customer Service,2020-05-07,Lonnie Miller,3716649328,cjackson@example.org
+39.0,1.0,Loan Officer,2015-08-15,Cynthia Lewis,0019113602564,monica99@example.org
+4.0,2.0,Manager,2011-01-31,Craig Murphy,2439928404,michelleperez@example.net
+40.0,8.0,Customer Service,2003-12-31,Mitchell Fitzgerald,5863334141,david56@example.net
+41.0,1.0,Customer Service,2008-03-28,Kevin Lee,,uwhitney@example.com
+42.0,7.0,Manager,2023-06-22,Lindsay Walker,4082752437,kyle14@example.net
+43.0,3.0,Manager,2015-10-17,Ronald Simpson,0014602523302,rrogers@example.com
+44.0,6.0,Manager,2011-05-13,Jeanne Rose,4439861259,jcarter@example.org
+45.0,7.0,Manager,2005-02-05,Christina Curtis,2913266201,brittney26@example.org
+46.0,5.0,Loan Officer,2006-12-28,James Turner,,denisebennett@example.net
+47.0,6.0,Loan Officer,2008-01-10,Sharon Santos,,cynthia75@example.org
+48.0,4.0,Loan Officer,2010-03-26,Bryan May,6304999741,nguyenjennifer@example.net
+49.0,1.0,Loan Officer,2008-02-17,Michael Long,0013874189813,adamwest@example.com
+5.0,3.0,Teller,2016-01-04,Jose Hartman,0017774515366,kevinrojas@example.com
+50.0,5.0,Teller,2013-12-04,Kenneth Delgado,4848011845,wrightbrandon@example.net
+51.0,6.0,Customer Service,2022-09-22,Jill Ray,0015584598831,melissa32@example.net
+52.0,3.0,Customer Service,2016-12-06,Ian Anderson,,qjones@example.com
+53.0,6.0,Loan Officer,2004-10-27,Carla Bryant,4628831435,lesliefrench@example.com
+54.0,4.0,Loan Officer,2006-12-20,Danielle Nelson,,suttonrichard@example.com
+55.0,2.0,Manager,2023-05-30,Gavin Nelson,4406163611,wdavis@example.net
+56.0,6.0,Security,2009-03-26,Kristen Lawson,8259625889,jonathonparks@example.net
+57.0,3.0,Customer Service,2014-04-29,Brenda Bradley,6056396727,tmeyer@example.org
+58.0,8.0,Loan Officer,2022-01-21,Angie Torres,0012518113129,timothyrobertson@example.net
+59.0,8.0,Loan Officer,2005-09-03,Jennifer Jensen,0015064853890,richardsondennis@example.com
+6.0,3.0,Teller,2010-05-08,Jason Jennings,8848590902,stacybrown@example.com
+60.0,3.0,Loan Officer,2014-04-25,James Brooks,6535814474,rojasashley@example.org
+61.0,4.0,Security,2016-01-02,Tina Robertson,7796705097,daniel52@example.com
+62.0,5.0,Security,2018-11-22,Jeffrey Gonzalez,7828617024,amandaadams@example.com
+63.0,7.0,Security,2008-04-11,Hector Hamilton,5319340266,david78@example.com
+64.0,4.0,Manager,2006-10-02,Phillip Macias,8622110225,scastillo@example.com
+7.0,3.0,Customer Service,2019-05-31,Gary Hayden,0013418218209,jamie48@example.org
+8.0,4.0,Teller,2022-03-12,Joseph Jackson,,hmyers@example.org
+9.0,2.0,Teller,2020-02-05,Patrick Price,,davidharris@example.com
